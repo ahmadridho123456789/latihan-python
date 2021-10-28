@@ -19,4 +19,4 @@
 <p> maka hasil akan seperti ini
 <p> kemudian klik run
 
-![Gambar 4](screshot/ss4.png)
+![Gambar 4](screnshot/ss4.png)
